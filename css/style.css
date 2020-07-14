@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(243, 243, 107);
+}
+.container{
+    text-align: center;
+}
+h1{
+    color: red;
+}
+img{
+    width: 500px;
+    height: 500px;
+}
