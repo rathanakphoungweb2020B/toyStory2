@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(243, 243, 107);
+    background-color: rgb(245, 48, 169);
 }
 .container{
     text-align: center;
@@ -13,5 +13,5 @@ img{
     border-radius: 40px;
 }
 p{
-    color: blue;
+    color: orangered;
 }
